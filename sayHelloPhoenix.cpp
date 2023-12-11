@@ -1,5 +1,3 @@
-﻿// sayHelloPhoenix.cpp: Definiert den Einstiegspunkt für die Anwendung.
-//
 
 #include "sayHelloPhoenix.h"
 
